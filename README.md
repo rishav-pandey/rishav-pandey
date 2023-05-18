@@ -1,9 +1,8 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 
-<h1 align="center">Hi 👋, I'm Rishav Pandey</h1>
-<a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=5000&pause=1000&color=F7F1D9&center=true&vCenter=true&width=960&height=35&lines=A+Student+of+Computer+Science+and+Engineering"
-        alt="Typing SVG" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-pandey" /> </p>
+<h1 align="center"> <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi there, I'm <a href="https://www.linkedin.com/in/rishav-pandey-a35240227/" target="_blank" rel="noopener noreferrer">Rishav Pandey</a> 
+<h3 align="center"><i>A Passionate Developer From India</i></h3>
+<img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-pandey" alt="rishav-pandey" /></a> </p>
 
