@@ -1,3 +1,4 @@
+<img src="gif1.gif">
 <h1 align="center">Hi 👋, I'm Rishav Pandey</h1>
 <a href="https://git.io/typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=5000&pause=1000&color=F7F1D9&center=true&vCenter=true&width=960&height=35&lines=A+Student+of+Computer+Science+and+Engineering"
