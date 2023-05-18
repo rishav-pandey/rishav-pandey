@@ -4,11 +4,22 @@
 <h3 align="center"><i>A Passionate Developer From India</i></h3>
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-pandey" alt="rishav-pandey" /></a> </p>
+<h2> 👨🏻‍💻 About Me :</h2>
 
-- 💬 Ask me about **Web Development**
+- 🌱 I’m currently learning **Machine Learning** & **Cloud Computing**
+       
+- 💬 Ask me about **C**, **C++**, **PYTHON**, **HTML**, **CSS** , **JAVA**
+
+- ⚡ I’m currently working on **personal projects** & **Contribute to Open-Source**
+
+- ☕ **I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
 
 - 📫 How to reach me **pandeyrishav2@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-pandey" alt="rishav-pandey" /></a> </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-pandey&show_icons=true&locale=en" alt="rishav-pandey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-pandey&" alt="rishav-pandey" /></p>
+## ✍️ Quote :
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
